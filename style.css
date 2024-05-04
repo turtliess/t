@@ -1,0 +1,143 @@
+body {
+    font-family: sans-serif;
+    background-color: #00BE35;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+header {
+    background-color: #009229;
+    border-bottom: 10px solid #004413;
+    margin: 0px;
+    height: 110px;
+}
+
+nav {
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+}
+
+.logo {
+    width: 110px;
+    height: 110px;
+    float: left;
+}
+
+nav a {
+    color: #004E28;
+    background-color: #00A154;
+    margin: 50px;
+    margin-top: 10px;
+    width: 135px;
+    height: 40px;
+    border: 1px solid #005C30;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.H1_1 {
+    color: #005E2B;
+    border-bottom: 5px dashed #005E2B;
+    width: 160px;
+    margin-left: 500px;
+}
+
+.H1_2 {
+    color: #005E2B;
+    border-bottom: 5px dashed #005E2B;
+    width: 120px;
+    margin-left: 500px;
+}
+
+.H1_3 {
+    color: #005E2B;
+    border-bottom: 5px dashed #005E2B;
+    width: 100px;
+    margin-left: 500px;
+}
+
+.H1_4 {
+    color: #005E2B;
+    border-bottom: 5px dashed #005E2B;
+    width: 200px;
+    margin-left: 500px;
+}
+
+main p {
+    color: #004B23;
+}
+
+.spisok {
+    text-align: center;
+    color: #004B23;
+}
+
+.img1 {
+    width: 208.33px;
+    height: 150px;
+    margin: 70px;
+}
+
+.img2 {
+    width: 208.33px;
+    height: 150px;
+    margin: 70px;
+}
+
+.img3 {
+    width: 208.33px;
+    height: 150px;
+    margin: 70px;
+}
+
+li {
+    color: #004B23;
+}
+
+footer {
+    background-color: #009229;
+    border-top: 10px solid #004413;
+    margin: 0px;
+}
+
+footer p {
+    color: #009229;
+    margin: 0px;
+}
+
+.navBut:hover {
+    color: chartreuse;
+    background-color: #00BE35;
+}
+
+.gallery img {
+    opacity: .5;
+    border: 10px double #004413;
+}
+
+.gallery {
+    display: flex;
+}
+
+.gallery img:hover {
+    opacity: 1;
+    border: 15px double #004413;
+}
+
+h1:hover {
+    color:#009229;
+}
+
+h1 {
+    text-align: center;
+}
+
+.list {
+    font-size: 30px;
+}
